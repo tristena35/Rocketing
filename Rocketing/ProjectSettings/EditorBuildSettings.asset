@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Shared/Splash Screen.unity
+    guid: bc85d91aaa1a84f25b76b8aa953975ab
+  - enabled: 1
+    path: Assets/Scenes/Shared/Main Menu.unity
+    guid: 509688aef8ef14f69b579879a4dddd08
+  - enabled: 1
+    path: Assets/Scenes/Soccer/Game Selection Scene Soccer.unity
+    guid: d5ca930429c6147f4a56c67346b7635a
+  - enabled: 1
+    path: Assets/Scenes/Soccer/Loading Game Screen.unity
+    guid: fb01d8265715f414c930e26081a0cd4d
+  - enabled: 1
+    path: Assets/Scenes/Soccer/Game.unity
+    guid: b2fa298808e434a3795fd752b3e5e923
+  - enabled: 1
+    path: Assets/Scenes/Soccer/Winner Screen.unity
+    guid: 764f5fe306df044bda2f3eef350db720
+  - enabled: 1
+    path: Assets/Scenes/Soccer/Game End.unity
+    guid: 5bf121a4c41754cfd90f9143b1412506
+  - enabled: 1
+    path: Assets/Scenes/Soccer/OverTime Game.unity
+    guid: 1c0a0a7e31e7646e28763b314b1f279a
+  - enabled: 1
+    path: Assets/Scenes/Hoops/Game Selection Scene Hoops.unity
+    guid: 8fd587353236f4bb69d486b3e901fc7b
+  - enabled: 1
+    path: Assets/Scenes/Hoops/Loading Hoops Game Screen.unity
+    guid: aa92bcbc6812f4592952dc3f8ed6303c
+  - enabled: 1
+    path: Assets/Scenes/Hoops/Hoops Game.unity
+    guid: 2f5122f43cabc4b6f83622928d500858
+  - enabled: 1
+    path: Assets/Scenes/Hoops/Hoops Win Screen.unity
+    guid: 545ed4e765d764a7d8add78837ec0324
+  - enabled: 1
+    path: Assets/Scenes/Hoops/Hoops End Game.unity
+    guid: f33d8fc83f4e947cd9176ee562ea1821
+  - enabled: 1
+    path: Assets/Scenes/Hoops/Hoops Overtime Game.unity
+    guid: e39706d62d9254f07bf143341c39a044
+  m_configObjects: {}
