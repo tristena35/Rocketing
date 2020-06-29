@@ -29,7 +29,7 @@
 <img src = "RocketingScreenshots/Soccer/SoccerWinScreen.png" width="320" height="180">
 <img src = "RocketingScreenshots/Soccer/SoccerGameOverScreen.png" width="320" height="180">
 
-*The following images *
+*The following images display the full gameplay of the soccer mode*
 
 --- 
 
@@ -42,4 +42,4 @@
 <img src = "RocketingScreenshots/Hoops/HoopsWinScreen.png" width="320" height="180">
 <img src = "RocketingScreenshots/Hoops/HoopsGameOverScreen.png" width="320" height="180">
 
-*The following images *
+*The following images display the full gameplay of the hoops mode*
