@@ -35,8 +35,7 @@
 
 **Hoops Screens**
 
-<img src = "RocketingScreenshots/Hoops/HoopsCarSelectScreen.png" width="320" height="180">
-<img src = "RocketingScreenshots/Hoops/HoopsInstructionsScreen.png" width="320" height="180">
+<img src = "RocketingScreenshots/Hoops/HoopsCarSelectScreen.png" width="320" height="180"> <img src = "RocketingScreenshots/Hoops/HoopsInstructionsScreen.png" width="320" height="180">
 <img src = "RocketingScreenshots/Hoops/HoopsGameScreen.png" width="320" height="180">
 <img src = "RocketingScreenshots/Hoops/HoopsPausedScreen.png" width="320" height="180">
 <img src = "RocketingScreenshots/Hoops/HoopsScoreScreen.png" width="320" height="180">
