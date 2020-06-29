@@ -5,7 +5,7 @@
 
 **Splash Screen**
 
-<img src = "Rocketing Screenshots/Shared/Splash Screen.PNG" width="600" height="400">
+<img src = "RocketingScreenshots/Shared/SplashScreen.PNG" width="600" height="400">
 
 *This is the Splash Screen where intial game loads.*
 
