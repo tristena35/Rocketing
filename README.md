@@ -11,9 +11,10 @@
 
 ---
 
-**Gameplay Screen (Level 1)**
+**Main Menu**
 
-<img src = "GameplayImages/BlockBreakerGameScreen.png" width="600" height="400">
+<img src = "RocketingScreenshots/Shared/MainMenuScreen.png" width="320" height="180">
+
 
 *This is the Gameplay screen, where you launch the ball at the blocks and keep the ball from falling in order to prevent Game Over.*  
 
