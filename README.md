@@ -22,8 +22,7 @@
 
 **Soccer Screens**
 
-<img src = "RocketingScreenshots/Soccer/SoccerCarSelectScreen.png" width="320" height="180">
-<img src = "RocketingScreenshots/Soccer/SoccerInstructionsScreen.png" width="320" height="180">
+<img src = "RocketingScreenshots/Soccer/SoccerCarSelectScreen.png" width="320" height="180"> <img src = "RocketingScreenshots/Soccer/SoccerInstructionsScreen.png" width="320" height="180">
 <img src = "RocketingScreenshots/Soccer/SoccerGameScreen.png" width="320" height="180">
 <img src = "RocketingScreenshots/Soccer/SoccerPausedScreen.png" width="320" height="180">
 <img src = "RocketingScreenshots/Soccer/SoccerScoreScreen.png" width="320" height="180">
