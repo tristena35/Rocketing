@@ -43,3 +43,16 @@
 <img src = "RocketingScreenshots/Hoops/HoopsGameOverScreen.png" width="320" height="180">
 
 *The following images display the full gameplay of the hoops mode*
+
+---
+---
+
+**Overall Game Development Summary:**
+
+*Uploaded on 6/28/2020, First Beta launch of Unity developed 2D game 'Rocketing'. Rocketing is a game I developed over the course of about a month inspired by the well known Console and PC 3D game called 'Rocket League'. Rocketing offers a fun 2 player experience of both sports Soccer and Basketball(Hoops) on a local Mac computer. I started learning to Develop games using the Unity 2D Engine about 2 months ago, so to date this is the first game that I have created.*
+
+---
+
+**Future Plans for 'Rocketing'**
+
+*For the future, I plan on moving Rocketing onto all Operating Systems along with Mobile Devices. Since the game does take screen space to play on an individual computer, when making Rocketing for mobile devices, the game would need to be multiplayer based.*
